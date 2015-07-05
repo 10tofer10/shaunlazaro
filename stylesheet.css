@@ -5,20 +5,40 @@ h1{
 color:white;
 font-family : Verdana;
 }
-em{
+p{
 color:white;
 text-align: right;
 }
 .top{
-  height: 50px;
+  height: 55px;
 	width: 100px;
 	border: 2px solid black;
 	border-radius: 5px;
-  background-color: #FF0000;
+  background-color: red;
   display:inline-block;
 }
-
+#button1{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+}
+#button2{
+  position: fixed;
+  top: 0px;
+  left: 105px;
+  background-color: orange;
+}
+#button3{
+  position: fixed;
+  top: 0px;
+  left: 210px;
+  background-color: yellow;
+}
 div strong{
   position:relative;
   top:2px;
+}
+span{
+font-size:26px;
 }
