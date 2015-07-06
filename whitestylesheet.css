@@ -21,7 +21,7 @@ text-align: left;
 	width: 100px;
 	border: 2px solid black;
 	border-radius: 5px;
-  background-color: red;
+  background-color: grey;
   display:inline-block;
 }
 #button1{
@@ -34,13 +34,11 @@ text-align: left;
   position: fixed;
   top: 60px;
   left:0px;
-  background-color: orange;
 }
 #button3{
   position: fixed;
   top: 120px;
   left: 0px;
-  background-color: yellow;
 }
 div strong{
   position:relative;
