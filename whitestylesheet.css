@@ -18,7 +18,10 @@ text-align: left;
 }
 #email{
   text-align:right;
-  font-family: Impact;
+  font-family: "Trebuchet MS", Helvetica, Times, sans-serif;
+  position: absolute;
+  top:0px;
+  right:0px;
 }
 .top{
   height: 55px;
@@ -54,4 +57,7 @@ div strong{
 }
 span{
 font-size:26px;
+}
+a:visited{
+  text-decoration:none;
 }
