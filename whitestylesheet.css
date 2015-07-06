@@ -1,0 +1,70 @@
+html{
+}
+body {
+  min-height: 100%;
+  background-color:white;
+}
+h1{
+color:black;
+font-family : Verdana;
+margin-left: 105px;
+}
+p{
+color:black;
+font-family: Georgia;
+margin-left: 105px;
+margin-right:100px;
+text-align: left;
+}
+.top{
+  height: 55px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+  background-color: red;
+  display:inline-block;
+}
+#button1{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+}
+#button2{
+  position: fixed;
+  top: 60px;
+  left:0px;
+  background-color: orange;
+}
+#button3{
+  position: fixed;
+  top: 120px;
+  left: 0px;
+  background-color: yellow;
+}
+div strong{
+  position:relative;
+  top:2px;
+}
+span{
+font-size:26px;
+}
+/* unvisited link */
+a:link {
+    text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    text-decoration:none;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration:none;
+}
+
+/* selected link */
+a:active {
+    text-decoration:underline;
+}
