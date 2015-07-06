@@ -16,29 +16,37 @@ margin-left: 105px;
 margin-right:100px;
 text-align: left;
 }
+#email{
+  text-align:right;
+  font-family: Impact;
+}
 .top{
   height: 55px;
 	width: 100px;
 	border: 2px solid black;
 	border-radius: 5px;
-  background-color: grey;
-  display:inline-block;
+  background-color: #C3C3C3;
 }
 #button1{
   position: fixed;
   top: 0px;
   left: 0px;
-  font-size: 20px;
+  height: 55px;
+  width: 100px;
 }
 #button2{
   position: fixed;
   top: 60px;
   left:0px;
+  height: 55px;
+  width: 100px;
 }
 #button3{
   position: fixed;
   top: 120px;
   left: 0px;
+  height: 55px;
+  width: 100px;
 }
 div strong{
   position:relative;
@@ -46,23 +54,4 @@ div strong{
 }
 span{
 font-size:26px;
-}
-/* unvisited link */
-a:link {
-    text-decoration:none;
-}
-
-/* visited link */
-a:visited {
-    text-decoration:none;
-}
-
-/* mouse over link */
-a:hover {
-    text-decoration:none;
-}
-
-/* selected link */
-a:active {
-    text-decoration:underline;
 }
