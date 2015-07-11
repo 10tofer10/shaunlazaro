@@ -13,7 +13,7 @@ p{
 color:black;
 font-family: Georgia;
 margin-left: 105px;
-margin-right:100px;
+margin-right:500px;
 text-align: left;
 }
 #email{
@@ -22,6 +22,7 @@ text-align: left;
   position: absolute;
   top:0px;
   right:0px;
+  padding-right: 10px;
 }
 .top{
   height: 55px;
