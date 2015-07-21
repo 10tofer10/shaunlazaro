@@ -7,11 +7,13 @@ body {
 h1{
 color:black;
 font-family : Verdana;
-margin-left: 105px;
+text-align: right;
+margin-right: 500px;
+margin-left: 110px;
 }
 p{
 color:black;
-font-family: Georgia;
+font-family: "Trebuchet MS" 1.5em, Helvetica 1.5em, Times 1.5em, sans-serif 1.5em;
 margin-left: 105px;
 margin-right:500px;
 text-align: left;
