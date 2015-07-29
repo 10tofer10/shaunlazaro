@@ -13,6 +13,12 @@ text-align: center;
   text-decoration: underline;
   font-size: 30px;
 }
+.inline-div{
+  width: 650px;
+}
+.inline-div img{
+  float:left;
+}
 p{
 color:black;
 font-family: "Trebuchet MS" 1.5em, Helvetica 1.5em, Times 1.5em, sans-serif 1.5em;
