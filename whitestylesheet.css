@@ -23,6 +23,7 @@ text-align: center;
   position: absolute;
   top:0px;
   left:210px;
+  font-size: 1em;
 }
 #center-text{
   text-align: center;
@@ -36,8 +37,7 @@ text-align: center;
 .txt-container p{
 color:black;
 font-family: "Trebuchet MS", Helvetica, Times, sans-serif;
-/*margin-left: 200px;
-margin-right: 205px;*/
+margin-right: 205px;
 text-align: left;
 }
 #center-text p{
@@ -46,6 +46,7 @@ text-align: left;
 #email{
   text-align: right;
   font-family: "Trebuchet MS", Helvetica, Times, sans-serif;
+  font-size: 1.5em;
   position: fixed;
   top:0px;
   right:0px;
