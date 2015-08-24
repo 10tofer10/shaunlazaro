@@ -34,6 +34,12 @@ text-align: center;
   display:inline-block;
   text-align: left;
 }
+
+/* image container 2 is a centered version of img-container */
+.img-container2{
+  display: inline-block;
+  text-align: center;
+}
 .txt-container p{
 color:black;
 font-family: "Trebuchet MS", Helvetica, Times, sans-serif;
