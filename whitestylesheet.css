@@ -9,6 +9,11 @@ color:black;
 font-family : Verdana;
 text-align: center;
 }
+.sidead-container{
+  position: fixed;
+  top:60px;
+  right:-23px;
+}
 .smallheader{
   text-decoration: underline;
   font-size: 30px;
@@ -24,6 +29,7 @@ text-align: center;
   top:0px;
   left:210px;
   font-size: 1em;
+  margin-right: 275px;
 }
 #center-text{
   text-align: center;
@@ -43,7 +49,6 @@ text-align: center;
 .txt-container p{
 color:black;
 font-family: "Trebuchet MS", Helvetica, Times, sans-serif;
-margin-right: 205px;
 text-align: left;
 }
 #center-text p{
@@ -56,7 +61,7 @@ text-align: left;
   position: fixed;
   top:0px;
   right:0px;
-  padding-right: 10px;
+  padding-right: 5px;
 }
 /*.top{
   height: 55px;
