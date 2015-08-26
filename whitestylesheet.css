@@ -11,7 +11,7 @@ text-align: center;
 .sidead-container{
   position: fixed;
   top:60px;
-  right:-23px;
+  right:0px;
   height: 100%;
 }
 .smallheader{
@@ -29,7 +29,7 @@ text-align: center;
   top:0px;
   left:210px;
   font-size: 1em;
-  margin-right: 275px;
+  margin-right: 300px;
 }
 #center-text{
   text-align: center;
@@ -127,7 +127,7 @@ a:visited{
 #button1{
   position: fixed;
   display: table-cell;
-  top: 0px;
+  top: 10px;
   left: 0px;
   height: 100px;
   width: 200px;
@@ -135,11 +135,11 @@ a:visited{
 }
 #button2{
   position: fixed;
-  top: 105px;
+  top: 115px;
   left:0px;
 }
 #button3{
   position: fixed;
-  top: 210px;
+  top: 220px;
   left: 0px;
 }
